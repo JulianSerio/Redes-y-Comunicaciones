@@ -1,0 +1,122 @@
+TEMAS REDES
+Introduccion
+	Que es una red? X
+	Que es internet?X 
+	Que es la web? X
+	Componentes de un sistema de comunicacionX
+	Componentes de una redX
+	Que es un protocolo? X
+	Que es un protocolo de red? X
+	Modelos de organizacion X
+		Beneficios X
+		Modelo OSI (Open System Interconnection) X
+		Modelo TCP/IP X
+		Comparacion X
+		EncapsulamientoX
+		Comunicacion entre capas Peer-PeerX
+	Clasificacion de redesX
+		Por CoberturaX
+		Por Acceso (publico o privado)X
+		Por Clasificacion fisicaX
+	
+	
+Capa aplicacion
+	¿Que es?X
+	FuncionesX
+	ComponentesX
+	Capa sesionX
+	Capa presentacionX
+	Modelos de comunicacion de aplicaiconesX
+		Mainframe centralizadoX
+		Cliente/servidorX
+		Peer-to-peerX
+		Peer-to-peer hibridoX
+	BitTorrentX
+	SkypeX
+	Direccionamiento de procesos X
+	HTTPX
+		¿Que es?X
+		Funcionamiento X
+		Esquema X
+		Version 0.9 X
+		Version 1.0 X
+		Estructura de requerimientoX
+		Linea de requerimientoX
+		Linea de respuestaX
+		Metodos HTTP 1.0
+		CabecerasX
+		Cuerpo del mensajeX
+		Get y PostX
+		Uso de diferentes clientesX
+		Autenticacion HTTP X
+		HTTP 1.1 X
+		PipeliningX
+		HTTPS
+		CookiesX
+		Web cacheX
+	HTTP2
+		¿Que es? X
+		Problemas con HTTP/1.0, HTTP/1.1 X
+		Diferencias principales con HTTP/1.1X
+		HTTP/2 mux stream, framing X
+		HTTP/2 HEADERS X
+		HTTP/2 priorización y flow-control X
+		HTTP/2 inline vs. push X
+		SSL/TLS X
+
+	HTTP3	
+		Qué es HTTP/3? X
+		Diferencias principales de HTTP/3-QUIC X
+	DNS
+		¿Qué es DNS?
+		Funcionamiento del DNS
+		Top Level Domains
+		Tipos de servidores
+		Estructura de mensaje DNS	
+		Servicios y registros (A,AAAA,PTR,CNAME,MX,TXT...)
+	EMAIL
+		Arquitectura
+			MUA
+			MTA
+			MDA
+			MAA
+			MRA
+			MSA
+		Protocolo SMTP
+			¿Que es? 
+			Formato del mensaje
+		POP 
+		IMAP
+	FTP
+		¿Que es FTP?
+		Caracteristicas
+		Funcionamiento
+		Esquema
+		Comandos
+		Modalidades de FTP
+			Activo
+			Pasivo
+		Formato de archivo
+		Modo de transferencia
+		Alternativa a FTP
+		FTP vs HTTP
+			
+
+
+TCP
+UDP
+TCP:Control Errores
+TCP: Control flujo y Congestion
+Introduccion ip
+Direccionamiento
+Fragmentacion
+Routeo
+ICMP 
+Ruteo Dinamico
+DHCP
+Nat
+IPv6
+Ethernet
+ARP 
+Switching
+Wifi
